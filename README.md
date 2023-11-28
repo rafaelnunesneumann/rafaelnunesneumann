@@ -27,7 +27,7 @@
 
 ##
 
-<h3 align="left">Current Learning:</h3>
+<h3 align="left">Currently studying:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jest/jest-plain.svg">
